@@ -1,4 +1,4 @@
-My website built upon HTML5UP's Identity
+My website built upon HTML5UP's Identity theme
 ______________________________________________________________________________________
 Identity by HTML5 UP
 html5up.net | @ajlkn
